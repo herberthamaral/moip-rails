@@ -12,4 +12,6 @@ Instalação e Execução
     $ rails s
 
 
+Mais informações no [MoIP Labs](http://labs.moip.com.br/blog/moiponrails-exemplo-de-integracao-da-api-do-moip-com-o-rails-3/)
+
 Happy coding!
